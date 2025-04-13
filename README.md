@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👋 About Me:
 Hey there! 👋 I'm Pavithran Francis, a computer science student who’s also a classical clarinetist 🎶. I enjoy creating things with code, learning new stuff, and bringing ideas to life.<br><br>When I’m not coding, you’ll probably find me playing music with an orchestra or working on random projects that mix creativity and tech. Always excited to connect, learn, and build cool things together!
 
 
